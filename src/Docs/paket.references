@@ -1,3 +1,4 @@
+group AntD
 FSharp.Core
 Fable.Core
 Fable.Elmish.React
